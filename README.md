@@ -15,7 +15,7 @@ This script is used for interfacing with the VirusTotal API to submit files for 
 
 ### Installing
 
-To store the API key you will need to create the `.env` file in the root directory of the project with the following content:
+You can get your API key at [virustotal.com/gui/my-apikey](https://www.virustotal.com/gui/my-apikey). A VirusTotal account is needed. To store the API key you will need to create the `.env` file in the root directory of the project with the following content:
 
 ```env
 API_KEY=<your_api_key>
